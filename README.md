@@ -3,7 +3,7 @@
 
 
 <p>To get started, create a command that will send an embed. 
- In the "color=" set color equal to "colorcoder(color)" where "(color)" is the name of the color you wish to send the embed with.</p>
+ In the `color=` set color equal to `colorcoder(color)` where `color` is the name of the color you wish to send the embed with.</p>
  
  
  For example:

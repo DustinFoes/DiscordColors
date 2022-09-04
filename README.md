@@ -8,7 +8,8 @@
  
  For example:
 
-```@client.command(description='Sends a Customized Embed to the specified channel')
+```
+@client.command(description='Sends a Customized Embed to the specified channel')
 async def embed(ctx, title, description, *, channel : discord.TextChannel = None, color = None):
 
 

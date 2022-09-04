@@ -26,4 +26,4 @@ async def embed(ctx, title, description, *, channel : discord.TextChannel = None
   else:
       await channel.send(embeds=[em])
       await ctx.respond(f'Embed Sent to #{channel}', ephemeral=True)
-      ```
+```
